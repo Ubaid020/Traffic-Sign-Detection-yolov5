@@ -1,7 +1,7 @@
 # Traffic-Sign-Detection-yolov5
  a real time traffic sign detection mobile app using yolov5 algorithm and flutter framework.
 
- *TO RUN THIS COLAB FILE*
+ **TO RUN THIS COLAB FILE**
  1: Firstly copy the code snippets into your colab file.
  2: Install all the dependencies.
  3: Run the requirements.txt file to download all the requirements.
