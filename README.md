@@ -1,4 +1,4 @@
-# Traffic-Sign-Detection-yolov5
+# Traffic-Sign-Detection-yolov5 
  a real time traffic sign detection mobile app using yolov5 algorithm and flutter framework.
 
  **TO RUN THIS COLAB FILE**
